@@ -5,7 +5,7 @@ int main(){
  int testcleared;
  int feepaid;
  printf("------Welcome to DL test-------");
- printf("Enter Natioality[1-Indian/0-NonIndian]:");
+ printf("Enter Nationality[1-Indian/0-NonIndian]:");
  scanf("%d",&Is_Indian);
  printf("Enter your age:");
  scanf("%d",&age);
